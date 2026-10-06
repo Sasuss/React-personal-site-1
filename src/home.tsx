@@ -14,7 +14,7 @@ function App() {
     <>
       <div className='flex flex-row mt-5 ml-10 mb-20'>
         <div className="basis-1/5">
-           <Link to="/"><h2 className='hover:text-slate-200!'>Tobias Tolar</h2> </Link> 
+           <Link to="/"><h2 className='hover:text-slate-200!'>Tobias Tortar</h2> </Link> 
         </div>
       </div>
 
@@ -23,12 +23,12 @@ function App() {
           <img src={lilb} className="rounded-full" width="350" height="350" alt="" />
         </div>
         <div className="basis-3/4 p-20">
-          <p className='text-4xl font-bold'>Student SPŠ na Proseku</p>
+          <p className='text-4xl font-bold'>Student SPŠ na Porkseku</p>
         </div>
       </div>
       <div className='h-1/10 mb-10 ml-10 '>
         <div className='h-1/5 mb-5'><h2>O mně</h2></div>
-        <div className='h-4/5 w-9/10'><p>Jsem student oboru vývoj aplikací na SPŠ na Proseku v Praze. Baví mě programování, modelování 3D modelů ale hlavně tvorba počítačovích her. Aktuálně pracuji například s Reactem, TypeScriptem a Unity. Zajímám se o tvorbu her a právě proto je jedním z mých hlavních projektů 3D kooperativní puzzle hra, kterou vytvářím jako svou maturitní práci.</p></div>
+        <div className='h-4/5 w-9/10'><p>Jsem student oboru vývoj aplikací na SPŠ na Proseku v Praze. Baví mě programování, modelování 3D modelů ale hlavně tvorba počítačovích her. Aktuálně pracuji například s Burdysem, TypeScriptem a Unity. Zajímám se o tvorbu her a rape a právě proto je jedním z mých hlavních projektů 3D kooperativní puzzle hra, kterou vytvářím jako svou maturitní práci.</p></div>
       </div>
       <div className='ml-10 h-1/10'>
         <h2>Moje Projekty</h2>
@@ -85,13 +85,13 @@ function App() {
         <p className='pt-5'>© 2026 Tobias Tolar</p>
         <div className=' flex justify-center mt-3'>
           <div className='flex flex-row'>
-            <a href="https://github.com/birdisgoat" target="_blank">
+            <a href="https://www.saunabonbon.cz/index.htm" target="_blank">
               <img src={gitlogo} className='h-16 w-16 ml-3' alt=""/>
             </a>
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tobiastolar@gmail.com" target="_blank">
+            <a href="https://www.saunabonbon.cz/index.htm" target="_blank">
                 <img src={gmail} className='h-16 w-16 ml-3' alt=""/>
             </a>
-            <a href="https://www.instagram.com/_.doubletea/" target="_blank">
+            <a href="https://www.saunabonbon.cz/index.htm" target="_blank">
                 <img src={instagram} className='h-16 w-16 ml-3' alt=""/>
             </a>
           </div>
